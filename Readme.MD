@@ -2,3 +2,5 @@
 참조: https://anpigon.github.io/blog/kr/@anpigon/react-native/
 
 시뮬레이터를 실행 시킬때: open -a Simulator
+
+이놈의 게임은   expo에서 실행 된다.
