@@ -11,4 +11,5 @@ https://docs.expo.io/versions/latest/workflow/publishing/
 - Android: 
 
 Eject 하는 방법
+https://docs.expo.io/versions/v35.0.0/expokit/eject/
 - expo eject
