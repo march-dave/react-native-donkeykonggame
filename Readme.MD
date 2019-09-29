@@ -9,3 +9,6 @@ iso 시뮬레이터를 실행 시킬때: open -a Simulator
 https://docs.expo.io/versions/latest/workflow/publishing/
 - ios:
 - Android: 
+
+Eject 하는 방법
+- expo eject
