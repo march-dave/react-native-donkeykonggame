@@ -7,7 +7,7 @@ iso 시뮬레이터를 실행 시킬때: open -a Simulator
 
 다음은 실제 전화기에 설치 하는 방법을 찾아 보자.
 https://docs.expo.io/versions/latest/workflow/publishing/
-- ios:
+- ios: 좀 더 찾아 봐야 겠다. 
 - Android: 
 
 Eject 하는 방법
